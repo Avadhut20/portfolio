@@ -8,7 +8,7 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "I amm a full stack developer with a love for crafting elegant solutions that solve real-world problems. ",
+    "I am a full stack developer with a love for crafting elegant solutions that solve real-world problems. ",
   summary:
     "Passionate about crafting innovative solutions at the intersection of technology and user experience, I am a proficient MERN stack developer with a flair for creative problem-solving. With expertise in Node.js, Express.js, React, and MongoDB, I thrive on building robust backend systems and intuitive interfaces.",
   avatarUrl: "/me.jpeg",
