@@ -119,7 +119,7 @@ export const DATA = {
     {
       title: "Interview Insight",
       href: "https://ai-interview-insight.vercel.app/",
-      dates: "April 2024 - March 2024",
+      dates: "April 2024 - May 2024",
       active: true,
       description:
         "Developed an AI Mock interview platform using Next JS, React and typescript.",
@@ -142,8 +142,63 @@ export const DATA = {
         },
 
       ],
-      image: "",
-      video: "https://cdn.llm.report/openai-demo.mp4",
+      image: "/ai.png",
+      video: "",
+      
+      
+    },
+    {
+      title: "Dhananajay Enterprises",
+      href: "https://www.dhananjayenterprises.com/",
+      dates: "Jan 2024 - Feb 2024",
+      active: true,
+      description:
+        "Created a user friendly website and Responsive website using React Js",
+      technologies: [
+        "React.js",
+        "Node JS",
+        "MongoDb",
+        "TailwindCSS",
+        "Responsive Design",
+        
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.dhananjayenterprises.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+
+      ],
+      image: "/dhan.png",
+      video: "",
+      
+      
+    },
+    {
+      title: "Navkar Gruh Udyog",
+      href: "https://navkarfood.in/",
+      dates: "June 2021 - July 2021",
+      active: true,
+      description:
+        "Developed a ecommerce website using wordpress",
+      technologies: [
+        "Wordpress",
+        "Woocommerce",
+        "HTML",
+        "CSS",
+        "Instamojo Payment Gateway",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://navkarfood.in/",
+          icon: <Icons.globe className="size-3" />,
+        },
+
+      ],
+      image: "/navkar.png",
+      video: "",
       
       
     },
